@@ -1,0 +1,9 @@
+[versions]
+javaLevel = "21"
+kotlinLevel = "1.9"
+
+[libraries]
+
+
+[bundles]
+
