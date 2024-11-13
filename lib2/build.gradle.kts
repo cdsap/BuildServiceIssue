@@ -1,6 +1,6 @@
 plugins {
     `java-library`
-    id("foo.lugin")
+    id("foo.plugin")
 }
 
 group = "org.acme"
